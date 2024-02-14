@@ -1,0 +1,27 @@
+.footer {
+  background-color: #2C3E50;
+  padding: 40px;
+  color: white;
+  text-align: center;
+
+  .card {
+    background-color: transparent;
+    color: white;
+    border: none;
+  }
+
+  h3 {
+    font-size: 20px;
+  }
+
+  .icon {
+    padding: 10px;
+    border-radius: 50%;
+    border: 1px solid white;
+  }
+}
+
+.copyright {
+  background-color: #1A252F;
+  color: white;
+}

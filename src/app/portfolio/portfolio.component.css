@@ -1,0 +1,30 @@
+.image-model{
+  margin-top: 100px !important;
+
+
+}
+
+.card{
+  border-radius: 10px;
+  padding: 0px;
+  width: 32%;
+}
+.card .btn-cud img{
+  border-radius: 10px;
+}
+
+.btn-cud{
+  border-radius: 10px;
+}
+
+
+@media only screen and (max-width:768px){
+
+.card{
+  border-radius: 10px;
+  padding: 0px;
+  width: 45%;
+  margin-inline:auto ;
+}
+
+}
